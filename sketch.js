@@ -24,7 +24,7 @@ function setup() {
       button.mousePressed(gotolink)
       button.style('color:green')
       button.size(300,60)
-      button.position(150,530)
+      button.position(150,630)
       button.hide();
          
   function gotolink() {
